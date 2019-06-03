@@ -1,6 +1,6 @@
-# isht
+# Introduction to Sampling and Hypothesis Testing
 
-This folder contains the course materials on Introduction to Sampling and Hypothesis Testing.
+This repository contains the course materials:
 
 1. Course note
 2. Jupyter Notebook Python scripts
